@@ -1,6 +1,4 @@
 #include <stdio.h>
-#define __USE_C99_MATH
-#include <stdbool.h>
 #define dimension 10
 #define infinte 999
 
